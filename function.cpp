@@ -14,3 +14,5 @@ int main(){
     cout << pattern(3);
     return 0;
 }
+
+// 

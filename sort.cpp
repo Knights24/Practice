@@ -10,9 +10,17 @@ using namespace std;
 
 int main(){
     int arr[] = {5,4,3,2,1};
+    int n = sizeof(arr) / sizeof(arr[0]);
 
-    for(int i = 0; i <(sizeof(arr)/sizeof(arr[0]))- 1;i++){
+    for(int i = 0; i < n- 1;i++){
+        int min_val = i;
+        for(int j = i + 1; j < n; j++){
+
         
+
+        }
+
+
 
     };
 
